@@ -17,3 +17,13 @@ various steps of satellite image processing, classification and
 available databases. This chapter will give an impetus towards 
 further research in this field and will provide a baseline to 
 research in the field of satellite image processing.
+
+Image segmentation can be accomplished in a number of 
+ways. Each approach is affected differently by various 
+factors. The following section reviews about some of the 
+techniques and approaches used for image segmentation.
+Based on the approach, image segmentation can be 
+classified into the following categories:
+- Region Based
+- Edge Based
+- Threshold Based
