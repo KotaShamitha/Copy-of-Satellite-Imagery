@@ -27,5 +27,6 @@ classified into the following categories:
 - Region Based
 - Edge Based
 - Threshold Based
+
 ![photo_2023-09-13_23-01-00](https://github.com/KotaShamitha/Satellite-Imagery/assets/141522120/a5cb5433-3fcd-4cfd-9941-ab6707583d3a)
 
